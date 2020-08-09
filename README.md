@@ -3,7 +3,7 @@
 This Repository contains code for an ongoing research on a novel Dropout-like layer.
 
 ## About
-    JacobianDropout is a novel Dropout-like method that provably reduces parameter redundancies. 
+JacobianDropout is a novel Dropout-like method that provably reduces parameter redundancies. 
 
 ## Authors
 
