@@ -1,4 +1,4 @@
-# Samplers-Research
+# JacobianDropout
 
 This Repository contains code for an ongoing research on a novel Dropout-like layer.
 
