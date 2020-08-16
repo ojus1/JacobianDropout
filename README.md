@@ -9,7 +9,7 @@ JacobianDropout is a novel Dropout-like method that provably reduces parameter r
 
 #### Surya Kant Sahu
 
-* Exploring the intersecion of Recommender Systems and Reinforcement Learning. Built Data Pipelines for multiple realtime Machine Learning applications. 
+* Exploring the intersection of Recommender Systems and Reinforcement Learning. Built Data Pipelines for multiple realtime Machine Learning applications. 
 * I play the Piano. A huge fan of Frédéric Chopin and Japanese Neo-Classical.
 * Contact: 
     + [Github](https://github.com/ojus1)
